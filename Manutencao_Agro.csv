@@ -1,0 +1,97 @@
+﻿Data,Ano,Semana,Mes,Mes_Ano,Turno,Setor,ID_Equipamento,Tipo_Falha,Horas_Parada,Custo_Manutencao_BRL
+2026-01-05,2026,S01,1,2026-01,Manhã,Preparo de Solo,Trator 01,Elétrica,1.8,1165.57
+2026-01-05,2026,S01,1,2026-01,Tarde,Colheita,Colheitadeira B,Mecânica,1.8,1155.72
+2026-01-05,2026,S01,1,2026-01,Noite,Preparo de Solo,Grade Niveladora E,Desgaste,3.0,1489.51
+2026-01-12,2026,S02,1,2026-01,Noite,Pulverização,Trator 01,Desgaste,2.5,1642.68
+2026-01-26,2026,S04,1,2026-01,Tarde,Colheita,Colheitadeira A,Elétrica,4.9,2744.99
+2026-02-02,2026,S05,2,2026-02,Noite,Preparo de Solo,Trator 01,Mecânica,5.0,1894.89
+2026-02-09,2026,S06,2,2026-02,Manhã,Preparo de Solo,Trator 01,Elétrica,6.0,2451.91
+2026-02-09,2026,S06,2,2026-02,Manhã,Pulverização,Trator 01,Desgaste,6.1,2358.74
+2026-02-09,2026,S06,2,2026-02,Manhã,Pulverização,Trator 01,Mecânica,1.7,1518.32
+2026-02-09,2026,S06,2,2026-02,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Hidráulica,5.4,2435.8
+2026-02-09,2026,S06,2,2026-02,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Mecânica,2.4,1432.1
+2026-02-09,2026,S06,2,2026-02,Tarde,Semeadura,Semeadora C,Desgaste,3.9,2186.71
+2026-02-09,2026,S06,2,2026-02,Tarde,Pulverização,Pulverizador B,Hidráulica,5.1,2854.21
+2026-02-09,2026,S06,2,2026-02,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Mecânica,3.1,1373.75
+2026-02-09,2026,S06,2,2026-02,Noite,Preparo de Solo,Trator 01,Elétrica,4.9,2018.19
+2026-02-09,2026,S06,2,2026-02,Noite,Semeadura,Semeadora C,Desgaste,6.2,2541.54
+2026-02-16,2026,S07,2,2026-02,Manhã,Colheita,Colheitadeira B,Mecânica,4.6,2550.34
+2026-02-16,2026,S07,2,2026-02,Manhã,Semeadura,Semeadora C,Desgaste,2.6,1075.27
+2026-02-16,2026,S07,2,2026-02,Noite,Colheita,Colheitadeira B,Sensores,1.4,1429.33
+2026-02-16,2026,S07,2,2026-02,Noite,Semeadura,Trator 02,Sensores,3.6,1990.32
+2026-02-23,2026,S08,2,2026-02,Noite,Colheita,Colheitadeira B,Sensores,5.0,2479.79
+2026-02-23,2026,S08,2,2026-02,Noite,Pulverização,Trator 01,Mecânica,4.4,2237.32
+2026-03-02,2026,S09,3,2026-03,Noite,Colheita,Colheitadeira B,Desgaste,3.9,2220.98
+2026-03-09,2026,S10,3,2026-03,Tarde,Semeadura,Trator 02,Elétrica,1.0,562.78
+2026-03-09,2026,S10,3,2026-03,Noite,Semeadura,Semeadora C,Hidráulica,2.2,1114.84
+2026-03-09,2026,S10,3,2026-03,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Mecânica,4.6,2265.73
+2026-03-16,2026,S11,3,2026-03,Manhã,Distribuição de Insumos,Trator 02,Hidráulica,2.8,1045.33
+2026-03-16,2026,S11,3,2026-03,Noite,Preparo de Solo,Grade Niveladora E,Mecânica,3.3,1479.92
+2026-03-23,2026,S12,3,2026-03,Manhã,Preparo de Solo,Trator 01,Hidráulica,6.7,2817.8
+2026-03-23,2026,S12,3,2026-03,Manhã,Pulverização,Trator 01,Hidráulica,3.9,1453.23
+2026-03-23,2026,S12,3,2026-03,Tarde,Semeadura,Semeadora C,Hidráulica,4.7,2090.95
+2026-03-23,2026,S12,3,2026-03,Tarde,Pulverização,Trator 01,Mecânica,5.2,2691.68
+2026-03-23,2026,S12,3,2026-03,Noite,Semeadura,Trator 02,Mecânica,4.3,2412.27
+2026-03-23,2026,S12,3,2026-03,Noite,Pulverização,Pulverizador B,Mecânica,3.6,2598.73
+2026-03-23,2026,S12,3,2026-03,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Mecânica,4.0,2318.04
+2026-03-30,2026,S13,3,2026-03,Manhã,Semeadura,Trator 02,Sensores,1.6,1188.43
+2026-03-30,2026,S13,3,2026-03,Tarde,Semeadura,Semeadora C,Mecânica,2.8,1363.54
+2026-03-30,2026,S13,3,2026-03,Tarde,Pulverização,Pulverizador B,Mecânica,1.3,733.35
+2026-04-13,2026,S15,4,2026-04,Noite,Colheita,Colheitadeira B,Hidráulica,3.2,2284.7
+2026-04-20,2026,S16,4,2026-04,Manhã,Preparo de Solo,Grade Niveladora E,Elétrica,2.3,948.12
+2026-04-20,2026,S16,4,2026-04,Tarde,Pulverização,Trator 01,Elétrica,3.2,1538.28
+2026-04-20,2026,S16,4,2026-04,Noite,Preparo de Solo,Trator 01,Sensores,2.3,905.73
+2026-05-04,2026,S18,5,2026-05,Tarde,Colheita,Colheitadeira A,Mecânica,4.4,2137.84
+2026-05-04,2026,S18,5,2026-05,Noite,Semeadura,Semeadora C,Mecânica,4.5,1973.03
+2026-05-04,2026,S18,5,2026-05,Noite,Distribuição de Insumos,Trator 02,Sensores,4.9,1933.3
+2026-05-11,2026,S19,5,2026-05,Manhã,Semeadura,Trator 02,Mecânica,4.3,2267.84
+2026-05-11,2026,S19,5,2026-05,Manhã,Pulverização,Pulverizador B,Hidráulica,3.6,1690.79
+2026-05-11,2026,S19,5,2026-05,Tarde,Colheita,Colheitadeira B,Sensores,3.7,2595.11
+2026-05-11,2026,S19,5,2026-05,Tarde,Colheita,Colheitadeira B,Hidráulica,4.1,2619.82
+2026-05-11,2026,S19,5,2026-05,Tarde,Pulverização,Trator 01,Mecânica,2.5,1715.01
+2026-05-18,2026,S20,5,2026-05,Manhã,Semeadura,Semeadora C,Elétrica,3.5,1323.91
+2026-05-18,2026,S20,5,2026-05,Noite,Semeadura,Trator 02,Hidráulica,4.2,2106.16
+2026-05-25,2026,S21,5,2026-05,Tarde,Distribuição de Insumos,Trator 02,Mecânica,3.6,1924.63
+2026-05-25,2026,S21,5,2026-05,Noite,Colheita,Colheitadeira B,Sensores,3.7,1909.0
+2026-05-25,2026,S21,5,2026-05,Noite,Semeadura,Semeadora C,Mecânica,1.8,1190.39
+2026-05-25,2026,S21,5,2026-05,Noite,Pulverização,Pulverizador B,Hidráulica,4.3,1834.5
+2026-06-01,2026,S22,6,2026-06,Tarde,Preparo de Solo,Grade Niveladora E,Mecânica,1.1,610.5
+2026-06-01,2026,S22,6,2026-06,Noite,Pulverização,Trator 01,Mecânica,3.9,1817.79
+2026-06-08,2026,S23,6,2026-06,Noite,Semeadura,Semeadora C,Mecânica,1.3,860.66
+2026-06-15,2026,S24,6,2026-06,Tarde,Colheita,Colheitadeira B,Mecânica,3.8,1964.79
+2026-06-22,2026,S25,6,2026-06,Noite,Semeadura,Semeadora C,Mecânica,0.9,593.68
+2026-06-29,2026,S26,6,2026-06,Manhã,Colheita,Colheitadeira B,Hidráulica,2.5,1673.74
+2026-06-29,2026,S26,6,2026-06,Noite,Colheita,Colheitadeira B,Desgaste,3.9,2333.31
+2026-06-29,2026,S26,6,2026-06,Noite,Preparo de Solo,Trator 01,Hidráulica,2.1,1209.79
+2026-07-06,2026,S27,7,2026-07,Manhã,Preparo de Solo,Grade Niveladora E,Desgaste,4.6,1623.92
+2026-07-06,2026,S27,7,2026-07,Manhã,Pulverização,Trator 01,Mecânica,6.3,3053.85
+2026-07-06,2026,S27,7,2026-07,Manhã,Pulverização,Trator 01,Sensores,1.5,806.08
+2026-07-06,2026,S27,7,2026-07,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Sensores,5.9,2560.5
+2026-07-06,2026,S27,7,2026-07,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Desgaste,1.9,1415.68
+2026-07-06,2026,S27,7,2026-07,Tarde,Preparo de Solo,Grade Niveladora E,Desgaste,6.3,2106.52
+2026-07-06,2026,S27,7,2026-07,Noite,Colheita,Colheitadeira A,Desgaste,3.7,2685.18
+2026-07-06,2026,S27,7,2026-07,Noite,Colheita,Colheitadeira A,Desgaste,4.1,2832.7
+2026-07-13,2026,S28,7,2026-07,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Desgaste,2.6,1360.1
+2026-07-20,2026,S29,7,2026-07,Manhã,Colheita,Colheitadeira A,Hidráulica,4.9,2449.33
+2026-07-20,2026,S29,7,2026-07,Noite,Semeadura,Trator 02,Desgaste,4.7,2008.09
+2026-07-27,2026,S30,7,2026-07,Tarde,Distribuição de Insumos,Trator 02,Hidráulica,4.3,1655.12
+2026-08-03,2026,S31,8,2026-08,Noite,Preparo de Solo,Trator 01,Mecânica,1.1,610.83
+2026-08-03,2026,S31,8,2026-08,Noite,Semeadura,Trator 02,Elétrica,3.8,1753.17
+2026-08-03,2026,S31,8,2026-08,Noite,Distribuição de Insumos,Trator 02,Desgaste,1.5,771.5
+2026-08-10,2026,S32,8,2026-08,Noite,Colheita,Colheitadeira A,Hidráulica,1.1,629.53
+2026-08-17,2026,S33,8,2026-08,Noite,Semeadura,Semeadora C,Hidráulica,1.7,1300.48
+2026-08-24,2026,S34,8,2026-08,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Desgaste,5.6,3011.42
+2026-08-24,2026,S34,8,2026-08,Tarde,Colheita,Colheitadeira B,Elétrica,5.9,3747.24
+2026-08-24,2026,S34,8,2026-08,Noite,Colheita,Colheitadeira A,Desgaste,5.9,4032.28
+2026-08-24,2026,S34,8,2026-08,Noite,Preparo de Solo,Grade Niveladora E,Elétrica,2.7,1525.94
+2026-08-24,2026,S34,8,2026-08,Noite,Preparo de Solo,Grade Niveladora E,Hidráulica,3.4,1443.63
+2026-08-24,2026,S34,8,2026-08,Noite,Pulverização,Trator 01,Mecânica,6.1,2663.32
+2026-08-31,2026,S35,8,2026-08,Tarde,Pulverização,Pulverizador B,Elétrica,4.4,2163.7
+2026-09-07,2026,S36,9,2026-09,Manhã,Preparo de Solo,Trator 01,Sensores,4.2,1872.71
+2026-09-07,2026,S36,9,2026-09,Tarde,Semeadura,Semeadora C,Hidráulica,4.9,2328.63
+2026-09-07,2026,S36,9,2026-09,Tarde,Distribuição de Insumos,Trator 02,Desgaste,3.6,1674.96
+2026-09-14,2026,S37,9,2026-09,Noite,Distribuição de Insumos,Trator 02,Desgaste,4.5,1661.22
+2026-09-28,2026,S39,9,2026-09,Manhã,Semeadura,Semeadora C,Elétrica,3.1,1299.07
+2026-09-28,2026,S39,9,2026-09,Noite,Colheita,Colheitadeira A,Hidráulica,3.9,1961.8
+2026-10-05,2026,S40,10,2026-10,Manhã,Colheita,Colheitadeira B,Elétrica,1.7,1639.1
+2026-10-05,2026,S40,10,2026-10,Noite,Colheita,Colheitadeira A,Mecânica,1.1,1223.26

@@ -1,0 +1,601 @@
+﻿Data,Ano,Semana,Mes,Mes_Ano,Turno,Setor,ID_Equipamento,Cultura,Volume_Produzido_Ton,Horas_Disponiveis,Horas_Trabalhadas,Eficiencia_Pct
+2026-01-05,2026,S01,1,2026-01,Manhã,Colheita,Colheitadeira A,Soja,24.8,8.0,5.22,91.1
+2026-01-05,2026,S01,1,2026-01,Manhã,Preparo de Solo,Trator 01,Soja,38.5,8.0,6.53,87.8
+2026-01-05,2026,S01,1,2026-01,Manhã,Semeadura,Trator 02,Soja,26.5,8.0,7.04,87.4
+2026-01-05,2026,S01,1,2026-01,Manhã,Pulverização,Trator 01,Soja,29.2,8.0,5.4,92.5
+2026-01-05,2026,S01,1,2026-01,Manhã,Distribuição de Insumos,Trator 02,Soja,35.6,8.0,6.41,99.0
+2026-01-05,2026,S01,1,2026-01,Tarde,Colheita,Colheitadeira B,Soja,30.4,8.0,6.25,93.2
+2026-01-05,2026,S01,1,2026-01,Tarde,Preparo de Solo,Grade Niveladora E,Soja,31.7,8.0,5.32,88.6
+2026-01-05,2026,S01,1,2026-01,Tarde,Semeadura,Semeadora C,Soja,23.1,8.0,6.16,87.2
+2026-01-05,2026,S01,1,2026-01,Tarde,Pulverização,Pulverizador B,Soja,36.1,8.0,6.49,95.0
+2026-01-05,2026,S01,1,2026-01,Tarde,Distribuição de Insumos,Trator 02,Soja,27.5,8.0,5.11,95.9
+2026-01-05,2026,S01,1,2026-01,Noite,Colheita,Colheitadeira B,Soja,20.9,8.0,4.96,80.7
+2026-01-05,2026,S01,1,2026-01,Noite,Preparo de Solo,Grade Niveladora E,Soja,33.2,8.0,5.42,91.1
+2026-01-05,2026,S01,1,2026-01,Noite,Semeadura,Trator 02,Soja,21.4,8.0,5.47,91.1
+2026-01-05,2026,S01,1,2026-01,Noite,Pulverização,Pulverizador B,Soja,30.5,8.0,6.1,85.5
+2026-01-05,2026,S01,1,2026-01,Noite,Distribuição de Insumos,Trator 02,Soja,23.0,8.0,4.67,87.8
+2026-01-12,2026,S02,1,2026-01,Manhã,Colheita,Colheitadeira A,Soja,34.3,8.0,7.19,91.4
+2026-01-12,2026,S02,1,2026-01,Manhã,Preparo de Solo,Trator 01,Soja,41.4,8.0,6.55,94.0
+2026-01-12,2026,S02,1,2026-01,Manhã,Semeadura,Semeadora C,Soja,22.5,8.0,5.29,99.0
+2026-01-12,2026,S02,1,2026-01,Manhã,Pulverização,Pulverizador B,Soja,29.9,8.0,5.46,93.8
+2026-01-12,2026,S02,1,2026-01,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Soja,40.1,8.0,7.32,97.6
+2026-01-12,2026,S02,1,2026-01,Tarde,Colheita,Colheitadeira B,Soja,28.2,8.0,5.94,90.7
+2026-01-12,2026,S02,1,2026-01,Tarde,Preparo de Solo,Trator 01,Soja,35.5,8.0,6.28,84.1
+2026-01-12,2026,S02,1,2026-01,Tarde,Semeadura,Trator 02,Soja,19.2,8.0,5.12,87.1
+2026-01-12,2026,S02,1,2026-01,Tarde,Pulverização,Trator 01,Soja,29.0,8.0,5.5,90.1
+2026-01-12,2026,S02,1,2026-01,Tarde,Distribuição de Insumos,Trator 02,Soja,31.5,8.0,6.01,93.5
+2026-01-12,2026,S02,1,2026-01,Noite,Colheita,Colheitadeira B,Soja,26.6,8.0,6.35,80.3
+2026-01-12,2026,S02,1,2026-01,Noite,Preparo de Solo,Grade Niveladora E,Soja,31.5,8.0,5.19,90.2
+2026-01-12,2026,S02,1,2026-01,Noite,Semeadura,Semeadora C,Soja,26.0,8.0,6.7,90.3
+2026-01-12,2026,S02,1,2026-01,Noite,Pulverização,Trator 01,Soja,31.1,8.0,6.56,81.0
+2026-01-12,2026,S02,1,2026-01,Noite,Distribuição de Insumos,Trator 02,Soja,23.1,8.0,4.99,82.6
+2026-01-19,2026,S03,1,2026-01,Manhã,Colheita,Colheitadeira A,Soja,25.9,8.0,5.28,93.8
+2026-01-19,2026,S03,1,2026-01,Manhã,Preparo de Solo,Trator 01,Soja,31.5,8.0,5.32,88.3
+2026-01-19,2026,S03,1,2026-01,Manhã,Semeadura,Semeadora C,Soja,26.4,8.0,6.6,93.0
+2026-01-19,2026,S03,1,2026-01,Manhã,Pulverização,Trator 01,Soja,31.0,8.0,5.71,92.7
+2026-01-19,2026,S03,1,2026-01,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Soja,27.8,8.0,5.18,95.8
+2026-01-19,2026,S03,1,2026-01,Tarde,Colheita,Colheitadeira A,Soja,35.2,8.0,7.05,95.5
+2026-01-19,2026,S03,1,2026-01,Tarde,Preparo de Solo,Grade Niveladora E,Soja,41.2,8.0,6.33,96.8
+2026-01-19,2026,S03,1,2026-01,Tarde,Semeadura,Semeadora C,Soja,26.0,8.0,7.06,85.7
+2026-01-19,2026,S03,1,2026-01,Tarde,Pulverização,Pulverizador B,Soja,33.3,8.0,6.57,86.6
+2026-01-19,2026,S03,1,2026-01,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Soja,25.9,8.0,5.17,89.5
+2026-01-19,2026,S03,1,2026-01,Noite,Colheita,Colheitadeira B,Soja,22.1,8.0,5.0,84.4
+2026-01-19,2026,S03,1,2026-01,Noite,Preparo de Solo,Trator 01,Soja,34.8,8.0,5.81,89.2
+2026-01-19,2026,S03,1,2026-01,Noite,Semeadura,Semeadora C,Soja,23.0,8.0,6.56,81.5
+2026-01-19,2026,S03,1,2026-01,Noite,Pulverização,Trator 01,Soja,34.6,8.0,6.71,88.1
+2026-01-19,2026,S03,1,2026-01,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Soja,29.0,8.0,6.52,79.3
+2026-01-26,2026,S04,1,2026-01,Manhã,Colheita,Colheitadeira A,Soja,29.6,8.0,5.78,98.0
+2026-01-26,2026,S04,1,2026-01,Manhã,Preparo de Solo,Grade Niveladora E,Soja,39.5,8.0,5.97,98.5
+2026-01-26,2026,S04,1,2026-01,Manhã,Semeadura,Trator 02,Soja,30.5,8.0,7.17,99.0
+2026-01-26,2026,S04,1,2026-01,Manhã,Pulverização,Trator 01,Soja,38.2,8.0,7.35,88.9
+2026-01-26,2026,S04,1,2026-01,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Soja,33.8,8.0,6.55,92.0
+2026-01-26,2026,S04,1,2026-01,Tarde,Colheita,Colheitadeira A,Soja,26.9,8.0,5.53,93.2
+2026-01-26,2026,S04,1,2026-01,Tarde,Preparo de Solo,Grade Niveladora E,Soja,39.6,8.0,6.36,92.6
+2026-01-26,2026,S04,1,2026-01,Tarde,Semeadura,Trator 02,Soja,22.1,8.0,5.86,87.8
+2026-01-26,2026,S04,1,2026-01,Tarde,Pulverização,Pulverizador B,Soja,32.6,8.0,6.34,87.9
+2026-01-26,2026,S04,1,2026-01,Tarde,Distribuição de Insumos,Trator 02,Soja,30.2,8.0,6.0,89.7
+2026-01-26,2026,S04,1,2026-01,Noite,Colheita,Colheitadeira A,Soja,26.1,8.0,6.05,82.4
+2026-01-26,2026,S04,1,2026-01,Noite,Preparo de Solo,Trator 01,Soja,33.4,8.0,6.08,81.7
+2026-01-26,2026,S04,1,2026-01,Noite,Semeadura,Semeadora C,Soja,21.7,8.0,5.62,89.8
+2026-01-26,2026,S04,1,2026-01,Noite,Pulverização,Pulverizador B,Soja,27.9,8.0,6.04,79.0
+2026-01-26,2026,S04,1,2026-01,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Soja,31.2,8.0,6.36,87.5
+2026-02-02,2026,S05,2,2026-02,Manhã,Colheita,Colheitadeira A,Soja,80.4,8.0,7.03,96.4
+2026-02-02,2026,S05,2,2026-02,Manhã,Preparo de Solo,Grade Niveladora E,Soja,35.5,8.0,7.09,94.8
+2026-02-02,2026,S05,2,2026-02,Manhã,Semeadura,Semeadora C,Soja,36.9,8.0,7.11,91.1
+2026-02-02,2026,S05,2,2026-02,Manhã,Pulverização,Trator 01,Soja,30.7,8.0,5.7,91.9
+2026-02-02,2026,S05,2,2026-02,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Soja,33.7,8.0,6.8,88.2
+2026-02-02,2026,S05,2,2026-02,Tarde,Colheita,Colheitadeira B,Soja,65.1,8.0,5.83,94.0
+2026-02-02,2026,S05,2,2026-02,Tarde,Preparo de Solo,Grade Niveladora E,Soja,23.3,8.0,4.97,88.6
+2026-02-02,2026,S05,2,2026-02,Tarde,Semeadura,Semeadora C,Soja,30.2,8.0,6.05,87.5
+2026-02-02,2026,S05,2,2026-02,Tarde,Pulverização,Pulverizador B,Soja,38.4,8.0,6.84,96.0
+2026-02-02,2026,S05,2,2026-02,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Soja,25.9,8.0,5.15,89.6
+2026-02-02,2026,S05,2,2026-02,Noite,Colheita,Colheitadeira B,Soja,56.1,8.0,5.35,88.3
+2026-02-02,2026,S05,2,2026-02,Noite,Preparo de Solo,Trator 01,Soja,26.3,8.0,5.65,88.1
+2026-02-02,2026,S05,2,2026-02,Noite,Semeadura,Semeadora C,Soja,27.9,8.0,5.97,81.9
+2026-02-02,2026,S05,2,2026-02,Noite,Pulverização,Trator 01,Soja,29.7,8.0,6.28,81.0
+2026-02-02,2026,S05,2,2026-02,Noite,Distribuição de Insumos,Trator 02,Soja,21.7,8.0,4.89,79.3
+2026-02-09,2026,S06,2,2026-02,Manhã,Colheita,Colheitadeira A,Soja,47.5,8.0,4.28,93.4
+2026-02-09,2026,S06,2,2026-02,Manhã,Preparo de Solo,Trator 01,Soja,23.8,8.0,5.1,88.3
+2026-02-09,2026,S06,2,2026-02,Manhã,Semeadura,Trator 02,Soja,28.8,8.0,5.37,94.0
+2026-02-09,2026,S06,2,2026-02,Manhã,Pulverização,Trator 01,Soja,33.8,8.0,6.48,89.2
+2026-02-09,2026,S06,2,2026-02,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Soja,28.6,8.0,5.74,88.8
+2026-02-09,2026,S06,2,2026-02,Tarde,Colheita,Colheitadeira A,Soja,57.6,8.0,5.38,90.2
+2026-02-09,2026,S06,2,2026-02,Tarde,Preparo de Solo,Trator 01,Soja,27.3,8.0,6.05,85.5
+2026-02-09,2026,S06,2,2026-02,Tarde,Semeadura,Semeadora C,Soja,25.1,8.0,5.29,83.3
+2026-02-09,2026,S06,2,2026-02,Tarde,Pulverização,Pulverizador B,Soja,20.8,8.0,4.33,82.0
+2026-02-09,2026,S06,2,2026-02,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Soja,27.4,8.0,5.23,93.5
+2026-02-09,2026,S06,2,2026-02,Noite,Colheita,Colheitadeira B,Soja,37.4,8.0,4.08,77.0
+2026-02-09,2026,S06,2,2026-02,Noite,Preparo de Solo,Trator 01,Soja,22.1,8.0,5.42,77.2
+2026-02-09,2026,S06,2,2026-02,Noite,Semeadura,Semeadora C,Soja,26.1,8.0,5.45,84.2
+2026-02-09,2026,S06,2,2026-02,Noite,Pulverização,Trator 01,Soja,28.2,8.0,5.9,81.6
+2026-02-09,2026,S06,2,2026-02,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Soja,18.5,8.0,4.3,76.7
+2026-02-16,2026,S07,2,2026-02,Manhã,Colheita,Colheitadeira B,Soja,83.9,8.0,7.17,98.5
+2026-02-16,2026,S07,2,2026-02,Manhã,Preparo de Solo,Trator 01,Soja,28.2,8.0,5.63,94.8
+2026-02-16,2026,S07,2,2026-02,Manhã,Semeadura,Semeadora C,Soja,35.6,8.0,6.81,91.6
+2026-02-16,2026,S07,2,2026-02,Manhã,Pulverização,Trator 01,Soja,33.8,8.0,6.34,91.1
+2026-02-16,2026,S07,2,2026-02,Manhã,Distribuição de Insumos,Trator 02,Soja,30.0,8.0,5.6,95.5
+2026-02-16,2026,S07,2,2026-02,Tarde,Colheita,Colheitadeira B,Soja,64.0,8.0,5.72,94.2
+2026-02-16,2026,S07,2,2026-02,Tarde,Preparo de Solo,Grade Niveladora E,Soja,32.7,8.0,6.9,89.8
+2026-02-16,2026,S07,2,2026-02,Tarde,Semeadura,Trator 02,Soja,38.1,8.0,6.91,96.8
+2026-02-16,2026,S07,2,2026-02,Tarde,Pulverização,Trator 01,Soja,36.1,8.0,6.63,93.2
+2026-02-16,2026,S07,2,2026-02,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Soja,28.8,8.0,6.07,84.5
+2026-02-16,2026,S07,2,2026-02,Noite,Colheita,Colheitadeira B,Soja,52.1,8.0,4.87,90.1
+2026-02-16,2026,S07,2,2026-02,Noite,Preparo de Solo,Grade Niveladora E,Soja,28.5,8.0,6.03,89.4
+2026-02-16,2026,S07,2,2026-02,Noite,Semeadura,Trator 02,Soja,29.4,8.0,6.5,79.4
+2026-02-16,2026,S07,2,2026-02,Noite,Pulverização,Pulverizador B,Soja,28.6,8.0,5.6,87.4
+2026-02-16,2026,S07,2,2026-02,Noite,Distribuição de Insumos,Trator 02,Soja,25.6,8.0,5.57,81.9
+2026-02-23,2026,S08,2,2026-02,Manhã,Colheita,Colheitadeira B,Soja,71.0,8.0,6.6,90.6
+2026-02-23,2026,S08,2,2026-02,Manhã,Preparo de Solo,Grade Niveladora E,Soja,35.1,8.0,6.71,99.0
+2026-02-23,2026,S08,2,2026-02,Manhã,Semeadura,Trator 02,Soja,38.9,8.0,7.46,91.4
+2026-02-23,2026,S08,2,2026-02,Manhã,Pulverização,Trator 01,Soja,37.1,8.0,7.15,88.8
+2026-02-23,2026,S08,2,2026-02,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Soja,40.2,8.0,7.44,96.3
+2026-02-23,2026,S08,2,2026-02,Tarde,Colheita,Colheitadeira A,Soja,77.9,8.0,7.0,93.7
+2026-02-23,2026,S08,2,2026-02,Tarde,Preparo de Solo,Grade Niveladora E,Soja,24.9,8.0,5.45,86.5
+2026-02-23,2026,S08,2,2026-02,Tarde,Semeadura,Semeadora C,Soja,34.7,8.0,6.37,95.7
+2026-02-23,2026,S08,2,2026-02,Tarde,Pulverização,Pulverizador B,Soja,26.5,8.0,5.16,87.8
+2026-02-23,2026,S08,2,2026-02,Tarde,Distribuição de Insumos,Trator 02,Soja,33.1,8.0,6.15,95.9
+2026-02-23,2026,S08,2,2026-02,Noite,Colheita,Colheitadeira B,Soja,61.5,8.0,6.23,83.1
+2026-02-23,2026,S08,2,2026-02,Noite,Preparo de Solo,Grade Niveladora E,Soja,21.5,8.0,4.85,83.8
+2026-02-23,2026,S08,2,2026-02,Noite,Semeadura,Trator 02,Soja,29.9,8.0,5.89,89.0
+2026-02-23,2026,S08,2,2026-02,Noite,Pulverização,Trator 01,Soja,31.5,8.0,6.59,81.7
+2026-02-23,2026,S08,2,2026-02,Noite,Distribuição de Insumos,Trator 02,Soja,22.5,8.0,4.91,81.8
+2026-03-02,2026,S09,3,2026-03,Manhã,Colheita,Colheitadeira B,Milho,33.1,8.0,6.53,97.2
+2026-03-02,2026,S09,3,2026-03,Manhã,Preparo de Solo,Grade Niveladora E,Milho,32.5,8.0,5.23,92.4
+2026-03-02,2026,S09,3,2026-03,Manhã,Semeadura,Trator 02,Milho,27.4,8.0,6.43,99.0
+2026-03-02,2026,S09,3,2026-03,Manhã,Pulverização,Trator 01,Milho,34.7,8.0,5.37,90.2
+2026-03-02,2026,S09,3,2026-03,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Milho,35.4,8.0,6.99,90.1
+2026-03-02,2026,S09,3,2026-03,Tarde,Colheita,Colheitadeira A,Milho,25.6,8.0,5.7,85.9
+2026-03-02,2026,S09,3,2026-03,Tarde,Preparo de Solo,Trator 01,Milho,39.1,8.0,6.17,94.4
+2026-03-02,2026,S09,3,2026-03,Tarde,Semeadura,Semeadora C,Milho,22.7,8.0,6.28,84.2
+2026-03-02,2026,S09,3,2026-03,Tarde,Pulverização,Pulverizador B,Milho,40.6,8.0,6.03,94.1
+2026-03-02,2026,S09,3,2026-03,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Milho,35.4,8.0,6.59,95.8
+2026-03-02,2026,S09,3,2026-03,Noite,Colheita,Colheitadeira B,Milho,28.4,8.0,6.45,84.2
+2026-03-02,2026,S09,3,2026-03,Noite,Preparo de Solo,Grade Niveladora E,Milho,31.7,8.0,5.46,86.3
+2026-03-02,2026,S09,3,2026-03,Noite,Semeadura,Semeadora C,Milho,24.1,8.0,6.46,86.9
+2026-03-02,2026,S09,3,2026-03,Noite,Pulverização,Pulverizador B,Milho,35.2,8.0,5.53,89.1
+2026-03-02,2026,S09,3,2026-03,Noite,Distribuição de Insumos,Trator 02,Milho,24.7,8.0,5.45,80.8
+2026-03-09,2026,S10,3,2026-03,Manhã,Colheita,Colheitadeira A,Milho,33.3,8.0,6.89,92.4
+2026-03-09,2026,S10,3,2026-03,Manhã,Preparo de Solo,Trator 01,Milho,40.7,8.0,6.12,99.0
+2026-03-09,2026,S10,3,2026-03,Manhã,Semeadura,Trator 02,Milho,26.0,8.0,6.56,92.1
+2026-03-09,2026,S10,3,2026-03,Manhã,Pulverização,Pulverizador B,Milho,40.5,8.0,5.97,94.9
+2026-03-09,2026,S10,3,2026-03,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Milho,35.5,8.0,6.58,96.3
+2026-03-09,2026,S10,3,2026-03,Tarde,Colheita,Colheitadeira B,Milho,25.9,8.0,5.75,86.4
+2026-03-09,2026,S10,3,2026-03,Tarde,Preparo de Solo,Trator 01,Milho,31.6,8.0,5.17,90.9
+2026-03-09,2026,S10,3,2026-03,Tarde,Semeadura,Trator 02,Milho,26.3,8.0,6.7,91.4
+2026-03-09,2026,S10,3,2026-03,Tarde,Pulverização,Trator 01,Milho,36.5,8.0,5.89,86.8
+2026-03-09,2026,S10,3,2026-03,Tarde,Distribuição de Insumos,Trator 02,Milho,30.3,8.0,6.14,88.0
+2026-03-09,2026,S10,3,2026-03,Noite,Colheita,Colheitadeira A,Milho,29.0,8.0,6.28,88.3
+2026-03-09,2026,S10,3,2026-03,Noite,Preparo de Solo,Trator 01,Milho,32.1,8.0,5.46,87.6
+2026-03-09,2026,S10,3,2026-03,Noite,Semeadura,Semeadora C,Milho,20.3,8.0,5.58,84.6
+2026-03-09,2026,S10,3,2026-03,Noite,Pulverização,Pulverizador B,Milho,39.3,8.0,6.35,86.5
+2026-03-09,2026,S10,3,2026-03,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Milho,26.2,8.0,5.58,83.9
+2026-03-16,2026,S11,3,2026-03,Manhã,Colheita,Colheitadeira A,Milho,35.0,8.0,7.27,92.1
+2026-03-16,2026,S11,3,2026-03,Manhã,Preparo de Solo,Trator 01,Milho,34.7,8.0,5.75,89.7
+2026-03-16,2026,S11,3,2026-03,Manhã,Semeadura,Trator 02,Milho,25.5,8.0,6.24,95.0
+2026-03-16,2026,S11,3,2026-03,Manhã,Pulverização,Trator 01,Milho,49.1,8.0,7.17,95.8
+2026-03-16,2026,S11,3,2026-03,Manhã,Distribuição de Insumos,Trator 02,Milho,33.8,8.0,6.54,92.1
+2026-03-16,2026,S11,3,2026-03,Tarde,Colheita,Colheitadeira B,Milho,28.6,8.0,6.0,91.2
+2026-03-16,2026,S11,3,2026-03,Tarde,Preparo de Solo,Trator 01,Milho,34.4,8.0,5.68,90.2
+2026-03-16,2026,S11,3,2026-03,Tarde,Semeadura,Trator 02,Milho,26.2,8.0,7.16,85.1
+2026-03-16,2026,S11,3,2026-03,Tarde,Pulverização,Pulverizador B,Milho,39.6,8.0,5.78,95.9
+2026-03-16,2026,S11,3,2026-03,Tarde,Distribuição de Insumos,Trator 02,Milho,24.4,8.0,5.11,85.2
+2026-03-16,2026,S11,3,2026-03,Noite,Colheita,Colheitadeira A,Milho,24.1,8.0,5.36,86.1
+2026-03-16,2026,S11,3,2026-03,Noite,Preparo de Solo,Grade Niveladora E,Milho,29.1,8.0,4.93,87.6
+2026-03-16,2026,S11,3,2026-03,Noite,Semeadura,Semeadora C,Milho,21.8,8.0,6.02,84.1
+2026-03-16,2026,S11,3,2026-03,Noite,Pulverização,Trator 01,Milho,33.0,8.0,5.07,91.2
+2026-03-16,2026,S11,3,2026-03,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Milho,30.5,8.0,6.06,89.7
+2026-03-23,2026,S12,3,2026-03,Manhã,Colheita,Colheitadeira A,Milho,28.5,8.0,6.25,87.4
+2026-03-23,2026,S12,3,2026-03,Manhã,Preparo de Solo,Trator 01,Milho,28.1,8.0,4.74,88.4
+2026-03-23,2026,S12,3,2026-03,Manhã,Semeadura,Trator 02,Milho,16.3,8.0,4.37,86.6
+2026-03-23,2026,S12,3,2026-03,Manhã,Pulverização,Trator 01,Milho,41.3,8.0,6.6,87.5
+2026-03-23,2026,S12,3,2026-03,Manhã,Distribuição de Insumos,Trator 02,Milho,30.6,8.0,6.34,85.9
+2026-03-23,2026,S12,3,2026-03,Tarde,Colheita,Colheitadeira A,Milho,18.0,8.0,4.29,80.2
+2026-03-23,2026,S12,3,2026-03,Tarde,Preparo de Solo,Trator 01,Milho,28.0,8.0,4.77,87.5
+2026-03-23,2026,S12,3,2026-03,Tarde,Semeadura,Semeadora C,Milho,18.3,8.0,5.05,84.3
+2026-03-23,2026,S12,3,2026-03,Tarde,Pulverização,Trator 01,Milho,36.3,8.0,6.41,79.1
+2026-03-23,2026,S12,3,2026-03,Tarde,Distribuição de Insumos,Trator 02,Milho,29.4,8.0,6.25,83.8
+2026-03-23,2026,S12,3,2026-03,Noite,Colheita,Colheitadeira A,Milho,18.7,8.0,4.54,78.6
+2026-03-23,2026,S12,3,2026-03,Noite,Preparo de Solo,Trator 01,Milho,29.4,8.0,5.69,77.0
+2026-03-23,2026,S12,3,2026-03,Noite,Semeadura,Trator 02,Milho,19.5,8.0,5.3,85.6
+2026-03-23,2026,S12,3,2026-03,Noite,Pulverização,Pulverizador B,Milho,28.1,8.0,5.3,74.0
+2026-03-23,2026,S12,3,2026-03,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Milho,24.8,8.0,5.4,81.8
+2026-03-30,2026,S13,3,2026-03,Manhã,Colheita,Colheitadeira B,Milho,30.6,8.0,6.09,96.1
+2026-03-30,2026,S13,3,2026-03,Manhã,Preparo de Solo,Grade Niveladora E,Milho,43.6,8.0,7.29,89.0
+2026-03-30,2026,S13,3,2026-03,Manhã,Semeadura,Trator 02,Milho,21.6,8.0,5.62,89.2
+2026-03-30,2026,S13,3,2026-03,Manhã,Pulverização,Pulverizador B,Milho,42.0,8.0,6.44,91.3
+2026-03-30,2026,S13,3,2026-03,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Milho,37.0,8.0,7.01,94.2
+2026-03-30,2026,S13,3,2026-03,Tarde,Colheita,Colheitadeira A,Milho,27.6,8.0,5.77,91.4
+2026-03-30,2026,S13,3,2026-03,Tarde,Preparo de Solo,Trator 01,Milho,36.8,8.0,5.65,97.0
+2026-03-30,2026,S13,3,2026-03,Tarde,Semeadura,Semeadora C,Milho,19.9,8.0,5.24,88.1
+2026-03-30,2026,S13,3,2026-03,Tarde,Pulverização,Pulverizador B,Milho,40.6,8.0,5.93,95.8
+2026-03-30,2026,S13,3,2026-03,Tarde,Distribuição de Insumos,Trator 02,Milho,33.6,8.0,6.85,87.3
+2026-03-30,2026,S13,3,2026-03,Noite,Colheita,Colheitadeira A,Milho,24.2,8.0,5.72,81.0
+2026-03-30,2026,S13,3,2026-03,Noite,Preparo de Solo,Grade Niveladora E,Milho,37.1,8.0,6.44,85.8
+2026-03-30,2026,S13,3,2026-03,Noite,Semeadura,Trator 02,Milho,22.9,8.0,6.03,88.3
+2026-03-30,2026,S13,3,2026-03,Noite,Pulverização,Trator 01,Milho,35.5,8.0,6.01,82.7
+2026-03-30,2026,S13,3,2026-03,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Milho,23.6,8.0,5.0,84.0
+2026-04-06,2026,S14,4,2026-04,Manhã,Colheita,Colheitadeira B,Milho,35.5,8.0,6.87,99.0
+2026-04-06,2026,S14,4,2026-04,Manhã,Preparo de Solo,Grade Niveladora E,Milho,26.9,8.0,5.72,89.0
+2026-04-06,2026,S14,4,2026-04,Manhã,Semeadura,Trator 02,Milho,32.4,8.0,5.74,99.0
+2026-04-06,2026,S14,4,2026-04,Manhã,Pulverização,Pulverizador B,Milho,42.6,8.0,6.32,94.3
+2026-04-06,2026,S14,4,2026-04,Manhã,Distribuição de Insumos,Trator 02,Milho,37.5,8.0,7.41,90.3
+2026-04-06,2026,S14,4,2026-04,Tarde,Colheita,Colheitadeira B,Milho,24.6,8.0,5.6,84.1
+2026-04-06,2026,S14,4,2026-04,Tarde,Preparo de Solo,Grade Niveladora E,Milho,27.2,8.0,5.78,89.2
+2026-04-06,2026,S14,4,2026-04,Tarde,Semeadura,Trator 02,Milho,33.3,8.0,6.67,87.6
+2026-04-06,2026,S14,4,2026-04,Tarde,Pulverização,Trator 01,Milho,40.1,8.0,5.8,96.8
+2026-04-06,2026,S14,4,2026-04,Tarde,Distribuição de Insumos,Trator 02,Milho,28.9,8.0,6.08,84.6
+2026-04-06,2026,S14,4,2026-04,Noite,Colheita,Colheitadeira A,Milho,24.2,8.0,5.35,86.5
+2026-04-06,2026,S14,4,2026-04,Noite,Preparo de Solo,Grade Niveladora E,Milho,25.8,8.0,5.73,85.2
+2026-04-06,2026,S14,4,2026-04,Noite,Semeadura,Trator 02,Milho,31.5,8.0,6.08,90.9
+2026-04-06,2026,S14,4,2026-04,Noite,Pulverização,Pulverizador B,Milho,34.8,8.0,5.92,82.2
+2026-04-06,2026,S14,4,2026-04,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Milho,26.8,8.0,5.89,81.0
+2026-04-13,2026,S15,4,2026-04,Manhã,Colheita,Colheitadeira A,Milho,27.1,8.0,5.23,99.0
+2026-04-13,2026,S15,4,2026-04,Manhã,Preparo de Solo,Trator 01,Milho,31.6,8.0,6.11,97.8
+2026-04-13,2026,S15,4,2026-04,Manhã,Semeadura,Semeadora C,Milho,34.5,8.0,6.37,94.9
+2026-04-13,2026,S15,4,2026-04,Manhã,Pulverização,Trator 01,Milho,47.9,8.0,7.28,92.0
+2026-04-13,2026,S15,4,2026-04,Manhã,Distribuição de Insumos,Trator 02,Milho,33.2,8.0,6.58,90.0
+2026-04-13,2026,S15,4,2026-04,Tarde,Colheita,Colheitadeira B,Milho,32.6,8.0,6.69,93.2
+2026-04-13,2026,S15,4,2026-04,Tarde,Preparo de Solo,Grade Niveladora E,Milho,27.1,8.0,5.6,91.5
+2026-04-13,2026,S15,4,2026-04,Tarde,Semeadura,Semeadora C,Milho,28.1,8.0,5.61,87.7
+2026-04-13,2026,S15,4,2026-04,Tarde,Pulverização,Trator 01,Milho,36.9,8.0,5.44,94.8
+2026-04-13,2026,S15,4,2026-04,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Milho,28.6,8.0,5.5,92.7
+2026-04-13,2026,S15,4,2026-04,Noite,Colheita,Colheitadeira B,Milho,22.5,8.0,4.87,88.4
+2026-04-13,2026,S15,4,2026-04,Noite,Preparo de Solo,Grade Niveladora E,Milho,24.5,8.0,5.34,86.9
+2026-04-13,2026,S15,4,2026-04,Noite,Semeadura,Semeadora C,Milho,30.4,8.0,6.59,81.1
+2026-04-13,2026,S15,4,2026-04,Noite,Pulverização,Trator 01,Milho,36.7,8.0,6.32,81.2
+2026-04-13,2026,S15,4,2026-04,Noite,Distribuição de Insumos,Trator 02,Milho,26.4,8.0,5.86,80.3
+2026-04-20,2026,S16,4,2026-04,Manhã,Colheita,Colheitadeira B,Milho,33.7,8.0,7.23,89.2
+2026-04-20,2026,S16,4,2026-04,Manhã,Preparo de Solo,Grade Niveladora E,Milho,34.2,8.0,6.67,97.1
+2026-04-20,2026,S16,4,2026-04,Manhã,Semeadura,Trator 02,Milho,32.1,8.0,6.36,88.5
+2026-04-20,2026,S16,4,2026-04,Manhã,Pulverização,Pulverizador B,Milho,34.2,8.0,5.17,92.5
+2026-04-20,2026,S16,4,2026-04,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Milho,29.8,8.0,5.77,92.2
+2026-04-20,2026,S16,4,2026-04,Tarde,Colheita,Colheitadeira B,Milho,31.4,8.0,6.51,92.3
+2026-04-20,2026,S16,4,2026-04,Tarde,Preparo de Solo,Grade Niveladora E,Milho,26.2,8.0,5.3,93.7
+2026-04-20,2026,S16,4,2026-04,Tarde,Semeadura,Semeadora C,Milho,35.3,8.0,6.67,92.8
+2026-04-20,2026,S16,4,2026-04,Tarde,Pulverização,Trator 01,Milho,33.5,8.0,5.13,91.3
+2026-04-20,2026,S16,4,2026-04,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Milho,33.3,8.0,6.57,90.4
+2026-04-20,2026,S16,4,2026-04,Noite,Colheita,Colheitadeira B,Milho,23.4,8.0,5.62,79.7
+2026-04-20,2026,S16,4,2026-04,Noite,Preparo de Solo,Trator 01,Milho,28.3,8.0,6.23,86.0
+2026-04-20,2026,S16,4,2026-04,Noite,Semeadura,Trator 02,Milho,23.2,8.0,5.04,80.6
+2026-04-20,2026,S16,4,2026-04,Noite,Pulverização,Trator 01,Milho,36.1,8.0,5.61,90.2
+2026-04-20,2026,S16,4,2026-04,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Milho,28.2,8.0,6.04,83.2
+2026-04-27,2026,S17,4,2026-04,Manhã,Colheita,Colheitadeira A,Milho,36.2,8.0,7.1,97.6
+2026-04-27,2026,S17,4,2026-04,Manhã,Preparo de Solo,Grade Niveladora E,Milho,33.9,8.0,7.08,90.7
+2026-04-27,2026,S17,4,2026-04,Manhã,Semeadura,Semeadora C,Milho,28.7,8.0,5.23,96.3
+2026-04-27,2026,S17,4,2026-04,Manhã,Pulverização,Pulverizador B,Milho,33.9,8.0,5.39,87.8
+2026-04-27,2026,S17,4,2026-04,Manhã,Distribuição de Insumos,Trator 02,Milho,32.8,8.0,6.18,94.7
+2026-04-27,2026,S17,4,2026-04,Tarde,Colheita,Colheitadeira A,Milho,33.2,8.0,6.79,93.5
+2026-04-27,2026,S17,4,2026-04,Tarde,Preparo de Solo,Grade Niveladora E,Milho,35.4,8.0,6.92,96.8
+2026-04-27,2026,S17,4,2026-04,Tarde,Semeadura,Semeadora C,Milho,32.5,8.0,6.36,89.6
+2026-04-27,2026,S17,4,2026-04,Tarde,Pulverização,Trator 01,Milho,41.6,8.0,6.52,89.3
+2026-04-27,2026,S17,4,2026-04,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Milho,29.5,8.0,5.63,93.2
+2026-04-27,2026,S17,4,2026-04,Noite,Colheita,Colheitadeira A,Milho,23.5,8.0,5.48,82.1
+2026-04-27,2026,S17,4,2026-04,Noite,Preparo de Solo,Trator 01,Milho,21.1,8.0,4.77,83.6
+2026-04-27,2026,S17,4,2026-04,Noite,Semeadura,Semeadora C,Milho,29.0,8.0,5.67,89.6
+2026-04-27,2026,S17,4,2026-04,Noite,Pulverização,Pulverizador B,Milho,39.3,8.0,6.24,88.2
+2026-04-27,2026,S17,4,2026-04,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Milho,28.9,8.0,5.82,88.4
+2026-05-04,2026,S18,5,2026-05,Manhã,Colheita,Colheitadeira B,Milho,32.0,8.0,6.24,98.2
+2026-05-04,2026,S18,5,2026-05,Manhã,Preparo de Solo,Grade Niveladora E,Milho,30.7,8.0,6.12,95.0
+2026-05-04,2026,S18,5,2026-05,Manhã,Semeadura,Trator 02,Milho,22.6,8.0,5.85,90.0
+2026-05-04,2026,S18,5,2026-05,Manhã,Pulverização,Trator 01,Milho,40.5,8.0,5.76,98.5
+2026-05-04,2026,S18,5,2026-05,Manhã,Distribuição de Insumos,Trator 02,Milho,30.2,8.0,5.55,97.1
+2026-05-04,2026,S18,5,2026-05,Tarde,Colheita,Colheitadeira A,Milho,30.4,8.0,6.13,94.9
+2026-05-04,2026,S18,5,2026-05,Tarde,Preparo de Solo,Trator 01,Milho,28.6,8.0,6.09,88.9
+2026-05-04,2026,S18,5,2026-05,Tarde,Semeadura,Trator 02,Milho,19.5,8.0,5.0,90.9
+2026-05-04,2026,S18,5,2026-05,Tarde,Pulverização,Trator 01,Milho,33.8,8.0,5.0,94.6
+2026-05-04,2026,S18,5,2026-05,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Milho,30.0,8.0,6.13,87.1
+2026-05-04,2026,S18,5,2026-05,Noite,Colheita,Colheitadeira A,Milho,23.9,8.0,5.45,83.9
+2026-05-04,2026,S18,5,2026-05,Noite,Preparo de Solo,Trator 01,Milho,28.5,8.0,6.04,89.4
+2026-05-04,2026,S18,5,2026-05,Noite,Semeadura,Semeadora C,Milho,22.6,8.0,6.0,87.5
+2026-05-04,2026,S18,5,2026-05,Noite,Pulverização,Pulverizador B,Milho,32.7,8.0,5.11,89.6
+2026-05-04,2026,S18,5,2026-05,Noite,Distribuição de Insumos,Trator 02,Milho,31.6,8.0,6.56,85.8
+2026-05-11,2026,S19,5,2026-05,Manhã,Colheita,Colheitadeira A,Milho,22.9,8.0,4.89,89.6
+2026-05-11,2026,S19,5,2026-05,Manhã,Preparo de Solo,Trator 01,Milho,22.5,8.0,5.06,84.3
+2026-05-11,2026,S19,5,2026-05,Manhã,Semeadura,Trator 02,Milho,18.6,8.0,4.47,96.8
+2026-05-11,2026,S19,5,2026-05,Manhã,Pulverização,Pulverizador B,Milho,37.8,8.0,6.09,86.8
+2026-05-11,2026,S19,5,2026-05,Manhã,Distribuição de Insumos,Trator 02,Milho,32.5,8.0,6.6,87.8
+2026-05-11,2026,S19,5,2026-05,Tarde,Colheita,Colheitadeira B,Milho,20.3,8.0,4.59,84.9
+2026-05-11,2026,S19,5,2026-05,Tarde,Preparo de Solo,Grade Niveladora E,Milho,24.1,8.0,5.08,90.1
+2026-05-11,2026,S19,5,2026-05,Tarde,Semeadura,Semeadora C,Milho,20.9,8.0,5.86,83.0
+2026-05-11,2026,S19,5,2026-05,Tarde,Pulverização,Trator 01,Milho,26.2,8.0,4.55,80.6
+2026-05-11,2026,S19,5,2026-05,Tarde,Distribuição de Insumos,Trator 02,Milho,21.3,8.0,4.49,84.7
+2026-05-11,2026,S19,5,2026-05,Noite,Colheita,Colheitadeira B,Milho,19.0,8.0,4.68,77.8
+2026-05-11,2026,S19,5,2026-05,Noite,Preparo de Solo,Grade Niveladora E,Milho,17.2,8.0,4.01,81.3
+2026-05-11,2026,S19,5,2026-05,Noite,Semeadura,Semeadora C,Milho,14.9,8.0,4.28,81.0
+2026-05-11,2026,S19,5,2026-05,Noite,Pulverização,Pulverizador B,Milho,26.3,8.0,4.81,76.6
+2026-05-11,2026,S19,5,2026-05,Noite,Distribuição de Insumos,Trator 02,Milho,24.4,8.0,5.38,80.8
+2026-05-18,2026,S20,5,2026-05,Manhã,Colheita,Colheitadeira A,Milho,35.8,8.0,7.14,96.1
+2026-05-18,2026,S20,5,2026-05,Manhã,Preparo de Solo,Trator 01,Milho,31.2,8.0,6.44,91.8
+2026-05-18,2026,S20,5,2026-05,Manhã,Semeadura,Semeadora C,Milho,26.7,8.0,6.65,93.2
+2026-05-18,2026,S20,5,2026-05,Manhã,Pulverização,Pulverizador B,Milho,45.6,8.0,6.5,98.2
+2026-05-18,2026,S20,5,2026-05,Manhã,Distribuição de Insumos,Trator 02,Milho,34.4,8.0,6.39,96.0
+2026-05-18,2026,S20,5,2026-05,Tarde,Colheita,Colheitadeira B,Milho,31.3,8.0,6.34,94.6
+2026-05-18,2026,S20,5,2026-05,Tarde,Preparo de Solo,Trator 01,Milho,26.0,8.0,5.66,87.1
+2026-05-18,2026,S20,5,2026-05,Tarde,Semeadura,Semeadora C,Milho,24.0,8.0,6.25,89.5
+2026-05-18,2026,S20,5,2026-05,Tarde,Pulverização,Pulverizador B,Milho,40.1,8.0,6.2,90.4
+2026-05-18,2026,S20,5,2026-05,Tarde,Distribuição de Insumos,Trator 02,Milho,35.9,8.0,7.09,90.3
+2026-05-18,2026,S20,5,2026-05,Noite,Colheita,Colheitadeira B,Milho,26.8,8.0,6.1,84.0
+2026-05-18,2026,S20,5,2026-05,Noite,Preparo de Solo,Trator 01,Milho,22.9,8.0,5.28,82.3
+2026-05-18,2026,S20,5,2026-05,Noite,Semeadura,Trator 02,Milho,20.1,8.0,5.82,80.3
+2026-05-18,2026,S20,5,2026-05,Noite,Pulverização,Trator 01,Milho,31.1,8.0,4.88,89.1
+2026-05-18,2026,S20,5,2026-05,Noite,Distribuição de Insumos,Trator 02,Milho,29.1,8.0,6.48,80.0
+2026-05-25,2026,S21,5,2026-05,Manhã,Colheita,Colheitadeira B,Milho,35.8,8.0,7.16,95.6
+2026-05-25,2026,S21,5,2026-05,Manhã,Preparo de Solo,Trator 01,Milho,32.4,8.0,6.49,94.6
+2026-05-25,2026,S21,5,2026-05,Manhã,Semeadura,Trator 02,Milho,29.9,8.0,7.38,94.3
+2026-05-25,2026,S21,5,2026-05,Manhã,Pulverização,Trator 01,Milho,51.7,8.0,7.3,99.0
+2026-05-25,2026,S21,5,2026-05,Manhã,Distribuição de Insumos,Trator 02,Milho,38.8,8.0,7.09,97.7
+2026-05-25,2026,S21,5,2026-05,Tarde,Colheita,Colheitadeira B,Milho,25.8,8.0,5.8,85.0
+2026-05-25,2026,S21,5,2026-05,Tarde,Preparo de Solo,Grade Niveladora E,Milho,28.5,8.0,5.98,90.3
+2026-05-25,2026,S21,5,2026-05,Tarde,Semeadura,Trator 02,Milho,25.5,8.0,6.38,93.1
+2026-05-25,2026,S21,5,2026-05,Tarde,Pulverização,Pulverizador B,Milho,38.3,8.0,6.07,88.2
+2026-05-25,2026,S21,5,2026-05,Tarde,Distribuição de Insumos,Trator 02,Milho,36.7,8.0,6.96,93.9
+2026-05-25,2026,S21,5,2026-05,Noite,Colheita,Colheitadeira B,Milho,23.2,8.0,5.09,87.4
+2026-05-25,2026,S21,5,2026-05,Noite,Preparo de Solo,Trator 01,Milho,21.8,8.0,4.77,86.6
+2026-05-25,2026,S21,5,2026-05,Noite,Semeadura,Semeadora C,Milho,17.0,8.0,4.66,84.8
+2026-05-25,2026,S21,5,2026-05,Noite,Pulverização,Pulverizador B,Milho,33.1,8.0,5.67,81.8
+2026-05-25,2026,S21,5,2026-05,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Milho,23.1,8.0,4.81,85.8
+2026-06-01,2026,S22,6,2026-06,Manhã,Colheita,Colheitadeira A,Milho,79.6,8.0,7.3,95.7
+2026-06-01,2026,S22,6,2026-06,Manhã,Preparo de Solo,Trator 01,Milho,40.6,8.0,6.53,92.6
+2026-06-01,2026,S22,6,2026-06,Manhã,Semeadura,Semeadora C,Milho,23.6,8.0,5.74,95.5
+2026-06-01,2026,S22,6,2026-06,Manhã,Pulverização,Trator 01,Milho,31.5,8.0,5.64,95.6
+2026-06-01,2026,S22,6,2026-06,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Milho,31.5,8.0,6.31,88.9
+2026-06-01,2026,S22,6,2026-06,Tarde,Colheita,Colheitadeira B,Milho,68.9,8.0,7.05,85.7
+2026-06-01,2026,S22,6,2026-06,Tarde,Preparo de Solo,Grade Niveladora E,Milho,44.8,8.0,7.1,94.0
+2026-06-01,2026,S22,6,2026-06,Tarde,Semeadura,Trator 02,Milho,22.7,8.0,5.91,89.2
+2026-06-01,2026,S22,6,2026-06,Tarde,Pulverização,Pulverizador B,Milho,30.9,8.0,6.11,86.6
+2026-06-01,2026,S22,6,2026-06,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Milho,28.5,8.0,5.65,89.7
+2026-06-01,2026,S22,6,2026-06,Noite,Colheita,Colheitadeira A,Milho,55.3,8.0,5.62,86.4
+2026-06-01,2026,S22,6,2026-06,Noite,Preparo de Solo,Trator 01,Milho,33.4,8.0,6.14,81.0
+2026-06-01,2026,S22,6,2026-06,Noite,Semeadura,Semeadora C,Milho,20.6,8.0,5.45,88.1
+2026-06-01,2026,S22,6,2026-06,Noite,Pulverização,Trator 01,Milho,30.6,8.0,6.36,82.3
+2026-06-01,2026,S22,6,2026-06,Noite,Distribuição de Insumos,Trator 02,Milho,24.8,8.0,4.99,88.4
+2026-06-08,2026,S23,6,2026-06,Manhã,Colheita,Colheitadeira A,Milho,59.4,8.0,5.26,99.0
+2026-06-08,2026,S23,6,2026-06,Manhã,Preparo de Solo,Trator 01,Milho,42.9,8.0,6.45,99.0
+2026-06-08,2026,S23,6,2026-06,Manhã,Semeadura,Trator 02,Milho,22.0,8.0,5.79,88.4
+2026-06-08,2026,S23,6,2026-06,Manhã,Pulverização,Pulverizador B,Milho,38.1,8.0,7.38,88.3
+2026-06-08,2026,S23,6,2026-06,Manhã,Distribuição de Insumos,Trator 02,Milho,26.2,8.0,5.18,90.1
+2026-06-08,2026,S23,6,2026-06,Tarde,Colheita,Colheitadeira B,Milho,77.2,8.0,7.2,94.1
+2026-06-08,2026,S23,6,2026-06,Tarde,Preparo de Solo,Grade Niveladora E,Milho,30.7,8.0,5.01,91.0
+2026-06-08,2026,S23,6,2026-06,Tarde,Semeadura,Trator 02,Milho,27.6,8.0,6.86,93.5
+2026-06-08,2026,S23,6,2026-06,Tarde,Pulverização,Pulverizador B,Milho,35.9,8.0,7.14,85.9
+2026-06-08,2026,S23,6,2026-06,Tarde,Distribuição de Insumos,Trator 02,Milho,32.5,8.0,6.53,88.8
+2026-06-08,2026,S23,6,2026-06,Noite,Colheita,Colheitadeira B,Milho,47.2,8.0,4.82,85.9
+2026-06-08,2026,S23,6,2026-06,Noite,Preparo de Solo,Grade Niveladora E,Milho,37.2,8.0,6.61,83.8
+2026-06-08,2026,S23,6,2026-06,Noite,Semeadura,Semeadora C,Milho,18.8,8.0,4.95,88.4
+2026-06-08,2026,S23,6,2026-06,Noite,Pulverização,Trator 01,Milho,24.6,8.0,5.22,80.4
+2026-06-08,2026,S23,6,2026-06,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Milho,25.7,8.0,5.12,89.4
+2026-06-15,2026,S24,6,2026-06,Manhã,Colheita,Colheitadeira A,Milho,69.8,8.0,6.74,90.9
+2026-06-15,2026,S24,6,2026-06,Manhã,Preparo de Solo,Trator 01,Milho,32.1,8.0,5.38,88.7
+2026-06-15,2026,S24,6,2026-06,Manhã,Semeadura,Semeadora C,Milho,23.1,8.0,5.46,98.5
+2026-06-15,2026,S24,6,2026-06,Manhã,Pulverização,Trator 01,Milho,37.7,8.0,7.3,88.4
+2026-06-15,2026,S24,6,2026-06,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Milho,40.2,8.0,7.27,98.6
+2026-06-15,2026,S24,6,2026-06,Tarde,Colheita,Colheitadeira B,Milho,69.1,8.0,6.8,89.1
+2026-06-15,2026,S24,6,2026-06,Tarde,Preparo de Solo,Trator 01,Milho,39.0,8.0,6.41,90.5
+2026-06-15,2026,S24,6,2026-06,Tarde,Semeadura,Trator 02,Milho,22.2,8.0,5.41,95.5
+2026-06-15,2026,S24,6,2026-06,Tarde,Pulverização,Trator 01,Milho,34.8,8.0,6.71,88.7
+2026-06-15,2026,S24,6,2026-06,Tarde,Distribuição de Insumos,Trator 02,Milho,26.3,8.0,5.57,84.3
+2026-06-15,2026,S24,6,2026-06,Noite,Colheita,Colheitadeira B,Milho,58.2,8.0,5.78,88.3
+2026-06-15,2026,S24,6,2026-06,Noite,Preparo de Solo,Grade Niveladora E,Milho,34.5,8.0,5.79,88.6
+2026-06-15,2026,S24,6,2026-06,Noite,Semeadura,Trator 02,Milho,20.8,8.0,5.41,89.2
+2026-06-15,2026,S24,6,2026-06,Noite,Pulverização,Trator 01,Milho,30.6,8.0,6.59,79.3
+2026-06-15,2026,S24,6,2026-06,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Milho,32.0,8.0,6.42,88.9
+2026-06-22,2026,S25,6,2026-06,Manhã,Colheita,Colheitadeira A,Milho,58.7,8.0,5.7,90.3
+2026-06-22,2026,S25,6,2026-06,Manhã,Preparo de Solo,Trator 01,Milho,35.9,8.0,5.95,89.8
+2026-06-22,2026,S25,6,2026-06,Manhã,Semeadura,Semeadora C,Milho,29.6,8.0,6.96,98.8
+2026-06-22,2026,S25,6,2026-06,Manhã,Pulverização,Trator 01,Milho,35.1,8.0,6.52,91.9
+2026-06-22,2026,S25,6,2026-06,Manhã,Distribuição de Insumos,Trator 02,Milho,33.6,8.0,6.67,89.7
+2026-06-22,2026,S25,6,2026-06,Tarde,Colheita,Colheitadeira A,Milho,69.6,8.0,6.45,94.6
+2026-06-22,2026,S25,6,2026-06,Tarde,Preparo de Solo,Trator 01,Milho,45.9,8.0,7.09,96.3
+2026-06-22,2026,S25,6,2026-06,Tarde,Semeadura,Trator 02,Milho,29.2,8.0,7.02,96.6
+2026-06-22,2026,S25,6,2026-06,Tarde,Pulverização,Pulverizador B,Milho,31.1,8.0,5.49,96.8
+2026-06-22,2026,S25,6,2026-06,Tarde,Distribuição de Insumos,Trator 02,Milho,29.2,8.0,5.96,87.4
+2026-06-22,2026,S25,6,2026-06,Noite,Colheita,Colheitadeira A,Milho,45.8,8.0,4.76,84.3
+2026-06-22,2026,S25,6,2026-06,Noite,Preparo de Solo,Grade Niveladora E,Milho,31.3,8.0,5.81,80.2
+2026-06-22,2026,S25,6,2026-06,Noite,Semeadura,Semeadora C,Milho,21.4,8.0,5.61,88.7
+2026-06-22,2026,S25,6,2026-06,Noite,Pulverização,Pulverizador B,Milho,28.6,8.0,5.37,91.0
+2026-06-22,2026,S25,6,2026-06,Noite,Distribuição de Insumos,Trator 02,Milho,22.5,8.0,4.99,80.2
+2026-06-29,2026,S26,6,2026-06,Manhã,Colheita,Colheitadeira B,Milho,69.8,8.0,6.7,91.4
+2026-06-29,2026,S26,6,2026-06,Manhã,Preparo de Solo,Grade Niveladora E,Milho,33.1,8.0,5.62,87.7
+2026-06-29,2026,S26,6,2026-06,Manhã,Semeadura,Trator 02,Milho,28.2,8.0,6.99,93.7
+2026-06-29,2026,S26,6,2026-06,Manhã,Pulverização,Trator 01,Milho,39.0,8.0,7.22,92.4
+2026-06-29,2026,S26,6,2026-06,Manhã,Distribuição de Insumos,Trator 02,Milho,32.5,8.0,6.47,89.4
+2026-06-29,2026,S26,6,2026-06,Tarde,Colheita,Colheitadeira B,Milho,74.6,8.0,7.13,91.7
+2026-06-29,2026,S26,6,2026-06,Tarde,Preparo de Solo,Grade Niveladora E,Milho,36.5,8.0,6.24,87.1
+2026-06-29,2026,S26,6,2026-06,Tarde,Semeadura,Semeadora C,Milho,21.1,8.0,5.23,93.8
+2026-06-29,2026,S26,6,2026-06,Tarde,Pulverização,Pulverizador B,Milho,25.1,8.0,5.06,85.0
+2026-06-29,2026,S26,6,2026-06,Tarde,Distribuição de Insumos,Trator 02,Milho,29.8,8.0,5.68,93.5
+2026-06-29,2026,S26,6,2026-06,Noite,Colheita,Colheitadeira B,Milho,59.2,8.0,5.76,90.2
+2026-06-29,2026,S26,6,2026-06,Noite,Preparo de Solo,Trator 01,Milho,38.1,8.0,6.61,85.8
+2026-06-29,2026,S26,6,2026-06,Noite,Semeadura,Semeadora C,Milho,18.1,8.0,5.02,83.9
+2026-06-29,2026,S26,6,2026-06,Noite,Pulverização,Trator 01,Milho,28.5,8.0,6.12,79.6
+2026-06-29,2026,S26,6,2026-06,Noite,Distribuição de Insumos,Trator 02,Milho,26.6,8.0,5.32,89.3
+2026-07-06,2026,S27,7,2026-07,Manhã,Colheita,Colheitadeira B,Algodão,32.7,8.0,6.55,95.4
+2026-07-06,2026,S27,7,2026-07,Manhã,Preparo de Solo,Grade Niveladora E,Algodão,28.6,8.0,5.74,94.4
+2026-07-06,2026,S27,7,2026-07,Manhã,Semeadura,Trator 02,Algodão,22.0,8.0,4.46,86.6
+2026-07-06,2026,S27,7,2026-07,Manhã,Pulverização,Trator 01,Algodão,32.5,8.0,5.85,94.8
+2026-07-06,2026,S27,7,2026-07,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,30.8,8.0,5.92,92.7
+2026-07-06,2026,S27,7,2026-07,Tarde,Colheita,Colheitadeira B,Algodão,27.2,8.0,5.7,91.1
+2026-07-06,2026,S27,7,2026-07,Tarde,Preparo de Solo,Grade Niveladora E,Algodão,17.6,8.0,3.83,86.9
+2026-07-06,2026,S27,7,2026-07,Tarde,Semeadura,Semeadora C,Algodão,29.7,8.0,5.54,93.9
+2026-07-06,2026,S27,7,2026-07,Tarde,Pulverização,Pulverizador B,Algodão,24.1,8.0,4.66,88.4
+2026-07-06,2026,S27,7,2026-07,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,23.5,8.0,4.72,88.7
+2026-07-06,2026,S27,7,2026-07,Noite,Colheita,Colheitadeira A,Algodão,17.5,8.0,4.31,77.6
+2026-07-06,2026,S27,7,2026-07,Noite,Preparo de Solo,Trator 01,Algodão,17.9,8.0,4.25,79.7
+2026-07-06,2026,S27,7,2026-07,Noite,Semeadura,Trator 02,Algodão,18.8,8.0,4.09,80.6
+2026-07-06,2026,S27,7,2026-07,Noite,Pulverização,Pulverizador B,Algodão,19.1,8.0,4.06,80.5
+2026-07-06,2026,S27,7,2026-07,Noite,Distribuição de Insumos,Trator 02,Algodão,23.0,8.0,5.31,77.2
+2026-07-13,2026,S28,7,2026-07,Manhã,Colheita,Colheitadeira B,Algodão,28.6,8.0,5.55,98.5
+2026-07-13,2026,S28,7,2026-07,Manhã,Preparo de Solo,Grade Niveladora E,Algodão,31.5,8.0,6.17,96.6
+2026-07-13,2026,S28,7,2026-07,Manhã,Semeadura,Semeadora C,Algodão,41.6,8.0,7.37,99.0
+2026-07-13,2026,S28,7,2026-07,Manhã,Pulverização,Pulverizador B,Algodão,34.3,8.0,6.53,89.6
+2026-07-13,2026,S28,7,2026-07,Manhã,Distribuição de Insumos,Trator 02,Algodão,37.4,8.0,6.96,95.8
+2026-07-13,2026,S28,7,2026-07,Tarde,Colheita,Colheitadeira A,Algodão,30.4,8.0,6.51,89.4
+2026-07-13,2026,S28,7,2026-07,Tarde,Preparo de Solo,Trator 01,Algodão,27.5,8.0,5.63,92.6
+2026-07-13,2026,S28,7,2026-07,Tarde,Semeadura,Semeadora C,Algodão,32.0,8.0,6.11,92.0
+2026-07-13,2026,S28,7,2026-07,Tarde,Pulverização,Trator 01,Algodão,38.6,8.0,6.82,96.7
+2026-07-13,2026,S28,7,2026-07,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,32.9,8.0,6.5,90.2
+2026-07-13,2026,S28,7,2026-07,Noite,Colheita,Colheitadeira B,Algodão,20.8,8.0,4.98,80.1
+2026-07-13,2026,S28,7,2026-07,Noite,Preparo de Solo,Trator 01,Algodão,27.0,8.0,5.62,90.9
+2026-07-13,2026,S28,7,2026-07,Noite,Semeadura,Trator 02,Algodão,27.0,8.0,5.42,87.2
+2026-07-13,2026,S28,7,2026-07,Noite,Pulverização,Pulverizador B,Algodão,32.9,8.0,6.46,87.1
+2026-07-13,2026,S28,7,2026-07,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,25.4,8.0,5.45,83.1
+2026-07-20,2026,S29,7,2026-07,Manhã,Colheita,Colheitadeira A,Algodão,27.4,8.0,5.42,96.8
+2026-07-20,2026,S29,7,2026-07,Manhã,Preparo de Solo,Grade Niveladora E,Algodão,35.2,8.0,6.97,95.6
+2026-07-20,2026,S29,7,2026-07,Manhã,Semeadura,Trator 02,Algodão,37.0,8.0,7.3,88.9
+2026-07-20,2026,S29,7,2026-07,Manhã,Pulverização,Pulverizador B,Algodão,41.9,8.0,7.44,96.4
+2026-07-20,2026,S29,7,2026-07,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,33.9,8.0,6.28,96.3
+2026-07-20,2026,S29,7,2026-07,Tarde,Colheita,Colheitadeira A,Algodão,25.0,8.0,4.99,96.1
+2026-07-20,2026,S29,7,2026-07,Tarde,Preparo de Solo,Grade Niveladora E,Algodão,26.5,8.0,5.68,88.3
+2026-07-20,2026,S29,7,2026-07,Tarde,Semeadura,Semeadora C,Algodão,26.3,8.0,5.14,89.8
+2026-07-20,2026,S29,7,2026-07,Tarde,Pulverização,Trator 01,Algodão,32.7,8.0,6.63,84.2
+2026-07-20,2026,S29,7,2026-07,Tarde,Distribuição de Insumos,Trator 02,Algodão,35.6,8.0,6.95,91.3
+2026-07-20,2026,S29,7,2026-07,Noite,Colheita,Colheitadeira A,Algodão,27.9,8.0,6.44,83.0
+2026-07-20,2026,S29,7,2026-07,Noite,Preparo de Solo,Grade Niveladora E,Algodão,22.8,8.0,4.9,88.2
+2026-07-20,2026,S29,7,2026-07,Noite,Semeadura,Trator 02,Algodão,27.7,8.0,5.82,83.5
+2026-07-20,2026,S29,7,2026-07,Noite,Pulverização,Pulverizador B,Algodão,32.4,8.0,6.62,83.8
+2026-07-20,2026,S29,7,2026-07,Noite,Distribuição de Insumos,Trator 02,Algodão,23.2,8.0,4.76,86.7
+2026-07-27,2026,S30,7,2026-07,Manhã,Colheita,Colheitadeira A,Algodão,33.8,8.0,7.4,87.4
+2026-07-27,2026,S30,7,2026-07,Manhã,Preparo de Solo,Trator 01,Algodão,32.1,8.0,6.77,89.7
+2026-07-27,2026,S30,7,2026-07,Manhã,Semeadura,Trator 02,Algodão,33.4,8.0,6.33,92.6
+2026-07-27,2026,S30,7,2026-07,Manhã,Pulverização,Trator 01,Algodão,40.6,8.0,7.42,93.5
+2026-07-27,2026,S30,7,2026-07,Manhã,Distribuição de Insumos,Trator 02,Algodão,37.9,8.0,7.12,94.8
+2026-07-27,2026,S30,7,2026-07,Tarde,Colheita,Colheitadeira A,Algodão,29.2,8.0,6.36,87.8
+2026-07-27,2026,S30,7,2026-07,Tarde,Preparo de Solo,Trator 01,Algodão,29.9,8.0,6.09,93.0
+2026-07-27,2026,S30,7,2026-07,Tarde,Semeadura,Trator 02,Algodão,35.3,8.0,6.47,95.6
+2026-07-27,2026,S30,7,2026-07,Tarde,Pulverização,Pulverizador B,Algodão,25.2,8.0,5.02,85.9
+2026-07-27,2026,S30,7,2026-07,Tarde,Distribuição de Insumos,Trator 02,Algodão,31.3,8.0,6.49,85.9
+2026-07-27,2026,S30,7,2026-07,Noite,Colheita,Colheitadeira A,Algodão,27.9,8.0,6.23,85.8
+2026-07-27,2026,S30,7,2026-07,Noite,Preparo de Solo,Trator 01,Algodão,29.2,8.0,6.61,83.7
+2026-07-27,2026,S30,7,2026-07,Noite,Semeadura,Semeadora C,Algodão,28.9,8.0,6.23,81.4
+2026-07-27,2026,S30,7,2026-07,Noite,Pulverização,Trator 01,Algodão,31.3,8.0,6.25,85.6
+2026-07-27,2026,S30,7,2026-07,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,30.2,8.0,6.73,79.9
+2026-08-03,2026,S31,8,2026-08,Manhã,Colheita,Colheitadeira B,Algodão,30.1,8.0,6.46,89.1
+2026-08-03,2026,S31,8,2026-08,Manhã,Preparo de Solo,Trator 01,Algodão,34.9,8.0,5.25,99.0
+2026-08-03,2026,S31,8,2026-08,Manhã,Semeadura,Trator 02,Algodão,25.8,8.0,6.3,95.1
+2026-08-03,2026,S31,8,2026-08,Manhã,Pulverização,Pulverizador B,Algodão,44.6,8.0,6.37,98.0
+2026-08-03,2026,S31,8,2026-08,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,34.5,8.0,6.7,91.8
+2026-08-03,2026,S31,8,2026-08,Tarde,Colheita,Colheitadeira A,Algodão,24.1,8.0,5.22,88.5
+2026-08-03,2026,S31,8,2026-08,Tarde,Preparo de Solo,Trator 01,Algodão,38.4,8.0,6.49,88.2
+2026-08-03,2026,S31,8,2026-08,Tarde,Semeadura,Trator 02,Algodão,19.6,8.0,5.02,90.7
+2026-08-03,2026,S31,8,2026-08,Tarde,Pulverização,Trator 01,Algodão,43.1,8.0,6.97,86.5
+2026-08-03,2026,S31,8,2026-08,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,31.0,8.0,6.36,86.7
+2026-08-03,2026,S31,8,2026-08,Noite,Colheita,Colheitadeira A,Algodão,26.5,8.0,5.79,87.5
+2026-08-03,2026,S31,8,2026-08,Noite,Preparo de Solo,Trator 01,Algodão,27.8,8.0,4.71,87.7
+2026-08-03,2026,S31,8,2026-08,Noite,Semeadura,Trator 02,Algodão,21.7,8.0,5.99,84.3
+2026-08-03,2026,S31,8,2026-08,Noite,Pulverização,Pulverizador B,Algodão,33.0,8.0,5.42,85.1
+2026-08-03,2026,S31,8,2026-08,Noite,Distribuição de Insumos,Trator 02,Algodão,27.3,8.0,5.47,89.0
+2026-08-10,2026,S32,8,2026-08,Manhã,Colheita,Colheitadeira B,Algodão,34.8,8.0,6.74,99.0
+2026-08-10,2026,S32,8,2026-08,Manhã,Preparo de Solo,Trator 01,Algodão,32.0,8.0,5.45,87.4
+2026-08-10,2026,S32,8,2026-08,Manhã,Semeadura,Trator 02,Algodão,24.1,8.0,5.65,99.0
+2026-08-10,2026,S32,8,2026-08,Manhã,Pulverização,Trator 01,Algodão,36.0,8.0,5.61,89.8
+2026-08-10,2026,S32,8,2026-08,Manhã,Distribuição de Insumos,Trator 02,Algodão,33.0,8.0,6.66,88.3
+2026-08-10,2026,S32,8,2026-08,Tarde,Colheita,Colheitadeira B,Algodão,27.9,8.0,5.76,92.7
+2026-08-10,2026,S32,8,2026-08,Tarde,Preparo de Solo,Grade Niveladora E,Algodão,36.9,8.0,5.97,92.0
+2026-08-10,2026,S32,8,2026-08,Tarde,Semeadura,Trator 02,Algodão,26.3,8.0,7.11,86.2
+2026-08-10,2026,S32,8,2026-08,Tarde,Pulverização,Trator 01,Algodão,41.9,8.0,6.84,85.7
+2026-08-10,2026,S32,8,2026-08,Tarde,Distribuição de Insumos,Trator 02,Algodão,29.0,8.0,6.05,85.4
+2026-08-10,2026,S32,8,2026-08,Noite,Colheita,Colheitadeira A,Algodão,24.5,8.0,5.22,89.8
+2026-08-10,2026,S32,8,2026-08,Noite,Preparo de Solo,Trator 01,Algodão,33.5,8.0,5.82,85.6
+2026-08-10,2026,S32,8,2026-08,Noite,Semeadura,Semeadora C,Algodão,24.2,8.0,6.54,86.2
+2026-08-10,2026,S32,8,2026-08,Noite,Pulverização,Trator 01,Algodão,35.6,8.0,5.72,87.1
+2026-08-10,2026,S32,8,2026-08,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,25.5,8.0,5.6,81.1
+2026-08-17,2026,S33,8,2026-08,Manhã,Colheita,Colheitadeira B,Algodão,33.7,8.0,7.35,87.9
+2026-08-17,2026,S33,8,2026-08,Manhã,Preparo de Solo,Trator 01,Algodão,41.9,8.0,6.36,98.1
+2026-08-17,2026,S33,8,2026-08,Manhã,Semeadura,Trator 02,Algodão,23.0,8.0,5.4,99.0
+2026-08-17,2026,S33,8,2026-08,Manhã,Pulverização,Pulverizador B,Algodão,39.9,8.0,6.04,92.5
+2026-08-17,2026,S33,8,2026-08,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,32.9,8.0,6.36,92.1
+2026-08-17,2026,S33,8,2026-08,Tarde,Colheita,Colheitadeira A,Algodão,27.0,8.0,5.95,87.0
+2026-08-17,2026,S33,8,2026-08,Tarde,Preparo de Solo,Trator 01,Algodão,38.7,8.0,6.44,89.4
+2026-08-17,2026,S33,8,2026-08,Tarde,Semeadura,Semeadora C,Algodão,24.6,8.0,6.41,89.3
+2026-08-17,2026,S33,8,2026-08,Tarde,Pulverização,Pulverizador B,Algodão,42.7,8.0,6.96,85.9
+2026-08-17,2026,S33,8,2026-08,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,36.3,8.0,6.93,93.5
+2026-08-17,2026,S33,8,2026-08,Noite,Colheita,Colheitadeira B,Algodão,27.5,8.0,6.49,81.0
+2026-08-17,2026,S33,8,2026-08,Noite,Preparo de Solo,Trator 01,Algodão,34.2,8.0,5.97,85.2
+2026-08-17,2026,S33,8,2026-08,Noite,Semeadura,Semeadora C,Algodão,18.5,8.0,5.15,83.7
+2026-08-17,2026,S33,8,2026-08,Noite,Pulverização,Pulverizador B,Algodão,39.8,8.0,6.51,85.5
+2026-08-17,2026,S33,8,2026-08,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,32.5,8.0,6.55,88.4
+2026-08-24,2026,S34,8,2026-08,Manhã,Colheita,Colheitadeira B,Algodão,22.5,8.0,4.56,94.5
+2026-08-24,2026,S34,8,2026-08,Manhã,Preparo de Solo,Trator 01,Algodão,30.3,8.0,4.64,97.3
+2026-08-24,2026,S34,8,2026-08,Manhã,Semeadura,Semeadora C,Algodão,20.9,8.0,5.86,82.8
+2026-08-24,2026,S34,8,2026-08,Manhã,Pulverização,Trator 01,Algodão,31.2,8.0,4.82,90.5
+2026-08-24,2026,S34,8,2026-08,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,24.9,8.0,5.06,87.6
+2026-08-24,2026,S34,8,2026-08,Tarde,Colheita,Colheitadeira B,Algodão,27.3,8.0,5.75,90.7
+2026-08-24,2026,S34,8,2026-08,Tarde,Preparo de Solo,Grade Niveladora E,Algodão,32.2,8.0,5.4,88.9
+2026-08-24,2026,S34,8,2026-08,Tarde,Semeadura,Trator 02,Algodão,15.8,8.0,4.27,85.8
+2026-08-24,2026,S34,8,2026-08,Tarde,Pulverização,Pulverizador B,Algodão,36.9,8.0,6.07,85.0
+2026-08-24,2026,S34,8,2026-08,Tarde,Distribuição de Insumos,Trator 02,Algodão,27.8,8.0,5.62,88.2
+2026-08-24,2026,S34,8,2026-08,Noite,Colheita,Colheitadeira A,Algodão,17.8,8.0,4.36,78.0
+2026-08-24,2026,S34,8,2026-08,Noite,Preparo de Solo,Grade Niveladora E,Algodão,31.3,8.0,5.8,80.2
+2026-08-24,2026,S34,8,2026-08,Noite,Semeadura,Trator 02,Algodão,12.6,8.0,3.59,81.4
+2026-08-24,2026,S34,8,2026-08,Noite,Pulverização,Trator 01,Algodão,30.9,8.0,5.49,78.9
+2026-08-24,2026,S34,8,2026-08,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,24.3,8.0,5.62,77.2
+2026-08-31,2026,S35,8,2026-08,Manhã,Colheita,Colheitadeira B,Algodão,31.0,8.0,6.09,97.5
+2026-08-31,2026,S35,8,2026-08,Manhã,Preparo de Solo,Trator 01,Algodão,39.4,8.0,6.33,92.7
+2026-08-31,2026,S35,8,2026-08,Manhã,Semeadura,Trator 02,Algodão,22.2,8.0,5.89,87.5
+2026-08-31,2026,S35,8,2026-08,Manhã,Pulverização,Trator 01,Algodão,36.4,8.0,5.59,90.9
+2026-08-31,2026,S35,8,2026-08,Manhã,Distribuição de Insumos,Trator 02,Algodão,30.7,8.0,5.65,96.8
+2026-08-31,2026,S35,8,2026-08,Tarde,Colheita,Colheitadeira A,Algodão,34.7,8.0,7.15,92.9
+2026-08-31,2026,S35,8,2026-08,Tarde,Preparo de Solo,Grade Niveladora E,Algodão,34.3,8.0,5.4,94.4
+2026-08-31,2026,S35,8,2026-08,Tarde,Semeadura,Semeadora C,Algodão,29.4,8.0,7.19,95.0
+2026-08-31,2026,S35,8,2026-08,Tarde,Pulverização,Pulverizador B,Algodão,38.9,8.0,5.85,93.0
+2026-08-31,2026,S35,8,2026-08,Tarde,Distribuição de Insumos,Trator 02,Algodão,28.7,8.0,5.73,89.4
+2026-08-31,2026,S35,8,2026-08,Noite,Colheita,Colheitadeira A,Algodão,29.0,8.0,6.72,82.4
+2026-08-31,2026,S35,8,2026-08,Noite,Preparo de Solo,Trator 01,Algodão,30.3,8.0,5.46,82.5
+2026-08-31,2026,S35,8,2026-08,Noite,Semeadura,Trator 02,Algodão,20.6,8.0,5.55,86.4
+2026-08-31,2026,S35,8,2026-08,Noite,Pulverização,Trator 01,Algodão,31.4,8.0,5.33,82.5
+2026-08-31,2026,S35,8,2026-08,Noite,Distribuição de Insumos,Trator 02,Algodão,29.9,8.0,6.24,85.3
+2026-09-07,2026,S36,9,2026-09,Manhã,Colheita,Colheitadeira A,Algodão,74.4,8.0,6.7,99.0
+2026-09-07,2026,S36,9,2026-09,Manhã,Preparo de Solo,Trator 01,Algodão,36.3,8.0,7.34,93.8
+2026-09-07,2026,S36,9,2026-09,Manhã,Semeadura,Trator 02,Algodão,30.4,8.0,5.88,90.7
+2026-09-07,2026,S36,9,2026-09,Manhã,Pulverização,Pulverizador B,Algodão,34.5,8.0,5.24,92.2
+2026-09-07,2026,S36,9,2026-09,Manhã,Distribuição de Insumos,Trator 02,Algodão,32.2,8.0,6.44,89.2
+2026-09-07,2026,S36,9,2026-09,Tarde,Colheita,Colheitadeira B,Algodão,63.5,8.0,6.13,92.3
+2026-09-07,2026,S36,9,2026-09,Tarde,Preparo de Solo,Grade Niveladora E,Algodão,26.7,8.0,5.65,89.4
+2026-09-07,2026,S36,9,2026-09,Tarde,Semeadura,Semeadora C,Algodão,29.4,8.0,5.73,90.1
+2026-09-07,2026,S36,9,2026-09,Tarde,Pulverização,Pulverizador B,Algodão,38.2,8.0,6.19,86.5
+2026-09-07,2026,S36,9,2026-09,Tarde,Distribuição de Insumos,Trator 02,Algodão,33.2,8.0,6.82,86.9
+2026-09-07,2026,S36,9,2026-09,Noite,Colheita,Colheitadeira B,Algodão,55.4,8.0,5.53,89.4
+2026-09-07,2026,S36,9,2026-09,Noite,Preparo de Solo,Grade Niveladora E,Algodão,27.5,8.0,6.14,85.0
+2026-09-07,2026,S36,9,2026-09,Noite,Semeadura,Semeadora C,Algodão,24.1,8.0,5.26,80.5
+2026-09-07,2026,S36,9,2026-09,Noite,Pulverização,Pulverizador B,Algodão,31.9,8.0,5.38,82.8
+2026-09-07,2026,S36,9,2026-09,Noite,Distribuição de Insumos,Trator 02,Algodão,23.9,8.0,4.83,88.1
+2026-09-14,2026,S37,9,2026-09,Manhã,Colheita,Colheitadeira A,Algodão,62.1,8.0,5.61,98.7
+2026-09-14,2026,S37,9,2026-09,Manhã,Preparo de Solo,Trator 01,Algodão,31.6,8.0,6.05,99.0
+2026-09-14,2026,S37,9,2026-09,Manhã,Semeadura,Semeadora C,Algodão,36.0,8.0,6.37,99.0
+2026-09-14,2026,S37,9,2026-09,Manhã,Pulverização,Pulverizador B,Algodão,46.7,8.0,6.89,94.8
+2026-09-14,2026,S37,9,2026-09,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,36.3,8.0,7.17,90.3
+2026-09-14,2026,S37,9,2026-09,Tarde,Colheita,Colheitadeira B,Algodão,62.7,8.0,6.27,89.1
+2026-09-14,2026,S37,9,2026-09,Tarde,Preparo de Solo,Trator 01,Algodão,26.0,8.0,5.79,85.2
+2026-09-14,2026,S37,9,2026-09,Tarde,Semeadura,Semeadora C,Algodão,26.8,8.0,5.09,92.4
+2026-09-14,2026,S37,9,2026-09,Tarde,Pulverização,Trator 01,Algodão,43.4,8.0,6.76,89.7
+2026-09-14,2026,S37,9,2026-09,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,30.4,8.0,6.05,89.7
+2026-09-14,2026,S37,9,2026-09,Noite,Colheita,Colheitadeira B,Algodão,50.7,8.0,5.34,84.7
+2026-09-14,2026,S37,9,2026-09,Noite,Preparo de Solo,Trator 01,Algodão,26.3,8.0,5.61,89.0
+2026-09-14,2026,S37,9,2026-09,Noite,Semeadura,Semeadora C,Algodão,32.2,8.0,6.52,86.5
+2026-09-14,2026,S37,9,2026-09,Noite,Pulverização,Trator 01,Algodão,31.6,8.0,5.06,87.3
+2026-09-14,2026,S37,9,2026-09,Noite,Distribuição de Insumos,Trator 02,Algodão,23.4,8.0,4.89,85.4
+2026-09-21,2026,S38,9,2026-09,Manhã,Colheita,Colheitadeira B,Algodão,70.9,8.0,6.69,94.5
+2026-09-21,2026,S38,9,2026-09,Manhã,Preparo de Solo,Trator 01,Algodão,27.1,8.0,5.19,99.0
+2026-09-21,2026,S38,9,2026-09,Manhã,Semeadura,Semeadora C,Algodão,33.3,8.0,6.0,97.4
+2026-09-21,2026,S38,9,2026-09,Manhã,Pulverização,Trator 01,Algodão,44.5,8.0,6.39,97.3
+2026-09-21,2026,S38,9,2026-09,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,36.3,8.0,6.85,94.5
+2026-09-21,2026,S38,9,2026-09,Tarde,Colheita,Colheitadeira A,Algodão,63.5,8.0,6.21,91.3
+2026-09-21,2026,S38,9,2026-09,Tarde,Preparo de Solo,Grade Niveladora E,Algodão,31.6,8.0,6.94,86.2
+2026-09-21,2026,S38,9,2026-09,Tarde,Semeadura,Trator 02,Algodão,38.5,8.0,7.05,95.7
+2026-09-21,2026,S38,9,2026-09,Tarde,Pulverização,Trator 01,Algodão,43.0,8.0,6.81,88.2
+2026-09-21,2026,S38,9,2026-09,Tarde,Distribuição de Insumos,Trator 02,Algodão,29.1,8.0,5.77,89.9
+2026-09-21,2026,S38,9,2026-09,Noite,Colheita,Colheitadeira A,Algodão,58.7,8.0,5.75,91.1
+2026-09-21,2026,S38,9,2026-09,Noite,Preparo de Solo,Trator 01,Algodão,30.0,8.0,6.29,90.5
+2026-09-21,2026,S38,9,2026-09,Noite,Semeadura,Semeadora C,Algodão,23.4,8.0,4.86,84.6
+2026-09-21,2026,S38,9,2026-09,Noite,Pulverização,Trator 01,Algodão,36.5,8.0,6.37,80.1
+2026-09-21,2026,S38,9,2026-09,Noite,Distribuição de Insumos,Trator 02,Algodão,25.1,8.0,5.03,89.1
+2026-09-28,2026,S39,9,2026-09,Manhã,Colheita,Colheitadeira B,Algodão,57.8,8.0,5.25,98.3
+2026-09-28,2026,S39,9,2026-09,Manhã,Preparo de Solo,Grade Niveladora E,Algodão,32.0,8.0,6.13,99.0
+2026-09-28,2026,S39,9,2026-09,Manhã,Semeadura,Semeadora C,Algodão,36.3,8.0,6.64,95.9
+2026-09-28,2026,S39,9,2026-09,Manhã,Pulverização,Trator 01,Algodão,51.8,8.0,7.42,97.5
+2026-09-28,2026,S39,9,2026-09,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,27.1,8.0,5.47,88.5
+2026-09-28,2026,S39,9,2026-09,Tarde,Colheita,Colheitadeira B,Algodão,64.3,8.0,6.69,85.7
+2026-09-28,2026,S39,9,2026-09,Tarde,Preparo de Solo,Trator 01,Algodão,31.8,8.0,6.22,97.0
+2026-09-28,2026,S39,9,2026-09,Tarde,Semeadura,Semeadora C,Algodão,26.6,8.0,5.21,89.4
+2026-09-28,2026,S39,9,2026-09,Tarde,Pulverização,Trator 01,Algodão,33.8,8.0,5.34,88.5
+2026-09-28,2026,S39,9,2026-09,Tarde,Distribuição de Insumos,Distribuidor de Insumos D,Algodão,27.0,8.0,5.41,88.9
+2026-09-28,2026,S39,9,2026-09,Noite,Colheita,Colheitadeira A,Algodão,64.8,8.0,6.49,89.0
+2026-09-28,2026,S39,9,2026-09,Noite,Preparo de Solo,Grade Niveladora E,Algodão,26.6,8.0,5.82,86.6
+2026-09-28,2026,S39,9,2026-09,Noite,Semeadura,Semeadora C,Algodão,23.6,8.0,5.2,79.7
+2026-09-28,2026,S39,9,2026-09,Noite,Pulverização,Pulverizador B,Algodão,29.9,8.0,4.8,87.0
+2026-09-28,2026,S39,9,2026-09,Noite,Distribuição de Insumos,Trator 02,Algodão,31.6,8.0,6.49,86.9
+2026-10-05,2026,S40,10,2026-10,Manhã,Colheita,Colheitadeira B,Soja,71.3,8.0,6.29,95.4
+2026-10-05,2026,S40,10,2026-10,Manhã,Preparo de Solo,Grade Niveladora E,Soja,28.7,8.0,6.07,89.5
+2026-10-05,2026,S40,10,2026-10,Manhã,Semeadura,Trator 02,Soja,29.0,8.0,7.05,95.8
+2026-10-05,2026,S40,10,2026-10,Manhã,Pulverização,Trator 01,Soja,30.6,8.0,5.68,92.0
+2026-10-05,2026,S40,10,2026-10,Manhã,Distribuição de Insumos,Distribuidor de Insumos D,Soja,32.7,8.0,6.13,95.1
+2026-10-05,2026,S40,10,2026-10,Tarde,Colheita,Colheitadeira A,Soja,55.3,8.0,5.42,85.8
+2026-10-05,2026,S40,10,2026-10,Tarde,Preparo de Solo,Trator 01,Soja,30.0,8.0,5.92,95.8
+2026-10-05,2026,S40,10,2026-10,Tarde,Semeadura,Semeadora C,Soja,25.7,8.0,6.21,96.3
+2026-10-05,2026,S40,10,2026-10,Tarde,Pulverização,Trator 01,Soja,36.2,8.0,6.93,89.4
+2026-10-05,2026,S40,10,2026-10,Tarde,Distribuição de Insumos,Trator 02,Soja,25.7,8.0,5.3,86.4
+2026-10-05,2026,S40,10,2026-10,Noite,Colheita,Colheitadeira A,Soja,57.5,8.0,5.92,81.8
+2026-10-05,2026,S40,10,2026-10,Noite,Preparo de Solo,Grade Niveladora E,Soja,24.3,8.0,5.7,80.6
+2026-10-05,2026,S40,10,2026-10,Noite,Semeadura,Trator 02,Soja,23.4,8.0,6.66,81.7
+2026-10-05,2026,S40,10,2026-10,Noite,Pulverização,Trator 01,Soja,32.2,8.0,6.49,84.9
+2026-10-05,2026,S40,10,2026-10,Noite,Distribuição de Insumos,Distribuidor de Insumos D,Soja,29.7,8.0,5.94,89.0
